@@ -1,5 +1,5 @@
 Analysis of the "Human Activity Recognition Using Smartphones Dataset experiment"
-as performed by www.smartlab.ws
+as performed by www.smartlab.ws.
 See http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The purpose of the run_analysis.R script enclosed in this repository is the 
