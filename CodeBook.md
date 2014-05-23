@@ -1,4 +1,4 @@
-# Analysis of the "Human Activity Recognition Using Smartphones Dataset experiment" 
+Analysis of the "Human Activity Recognition Using Smartphones Dataset experiment" 
 as performed by www.smartlab.ws.
 (see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
