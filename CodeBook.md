@@ -1,10 +1,7 @@
-=======================================================================================
-Analysis of the "Human Activity Recognition Using Smartphones Dataset experiment" 
+# Analysis of the "Human Activity Recognition Using Smartphones Dataset experiment" 
 as performed by www.smartlab.ws.
 (see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-=======================================================================================
 
-======================================================================================
 This file contains the description of the flow of the run_analysis.R script 
 and its output data sets.
 
@@ -28,4 +25,3 @@ Columns in this data set represent subjects and rows represent avarages of diffe
 
 5. Finally the cleaned "uciHarData" data set is extened with the activity name column. This is created based
 on the literal vector "activityLabels" and the activity codes for both test and train data read from files into "trainTags" and "testTags" variables respectively.
-======================================================================================

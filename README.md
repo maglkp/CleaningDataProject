@@ -1,10 +1,7 @@
-=======================================================================================
-Analysis of the "Human Activity Recognition Using Smartphones Dataset experiment" 
+# Analysis of the "Human Activity Recognition Using Smartphones Dataset experiment" 
 as performed by www.smartlab.ws.
 (see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
-=======================================================================================
 
-=======================================================================================
 The purpose of the run_analysis.R script enclosed in this repository is the 
 cleaning and preliminary analysis of the data set obtained in the experiment on wearable
 computing equipment usage performed by Smart Lab company.
@@ -26,9 +23,8 @@ from the cleaned data set. Columns in this data set represent subjects and rows 
 5. Input of the script is the data set provided in the "UCI HAR Dataset" directory.
 The output of the script are the following files:
 
-uciHarData.csv
-uciHarSubjectMeans.csv 
+* uciHarData.csv
+* uciHarSubjectMeans.csv 
 
 The second one contains the average of each variable from the cleaned dataset 
 for each activity and each subject (see CodeBook.md for details). 
-=======================================================================================
